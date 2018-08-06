@@ -1,0 +1,27 @@
+{
+  "name": "midle.shop-web-app",
+  "description": "Web App for www.midle.shop",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./src/index.js",
+  "author": "Alexander Ivannikov <alexander@midle.shop> (https://github.com/an-ivannikov)",
+  "homepage": "https://midle.shop",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/midle-shop/midle.shop-web-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/midle-shop/midle.shop-web-app/issues"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.4"
+  }
+}
