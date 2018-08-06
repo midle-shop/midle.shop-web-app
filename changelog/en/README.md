@@ -16,4 +16,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - [Releases](/releases);
 - [Change Log](/changelog).
 
-[Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.1...HEAD
+[Unreleased]: https://github.com/midle-shop/midle.shop-web-app/compare/v0.0.1...HEAD

@@ -17,4 +17,4 @@ http://semver.org/).
 - [Релизы](/releases);
 - [Журнал изменений](/changelog).
 
-[Не выпущено]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.1...HEAD
+[Не выпущено]: https://github.com/midle-shop/midle.shop-web-app/compare/v0.0.1...HEAD
