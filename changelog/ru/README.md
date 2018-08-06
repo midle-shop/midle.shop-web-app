@@ -10,6 +10,10 @@ http://semver.org/).
 
 ## [Не выпущено]
 
+## [v0.0.2] - 2018-08-06
+### Исправлено
+- Отключение './registerServiceWorker' для режима производства.
+
 ## v0.0.1 - 2018-08-06
 ### Добавлено
 - Web App (Инициация нового Web App с помощью
@@ -18,3 +22,4 @@ http://semver.org/).
 - [Журнал изменений](/changelog).
 
 [Не выпущено]: https://github.com/midle-shop/midle.shop-web-app/compare/v0.0.1...HEAD
+[v0.0.2]: https://github.com/midle-shop/midle.shop-web-app/compare/v0.0.1...v0.0.2

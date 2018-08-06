@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## Unreleased
 
+## v0.0.2 - 2018-08-06
+### Fixed
+- Disable './registerServiceWorker' for production mode.
+
 ## v0.0.1 - 2018-08-06
 ### Added
 - Test Web App.
