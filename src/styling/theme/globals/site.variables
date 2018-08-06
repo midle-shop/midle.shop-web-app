@@ -1,0 +1,25 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+/*-------------------
+       Fonts
+--------------------*/
+
+@fontName : 'Oswald';
+
+@googleFontSizes   : '200,300,400,500,600,700';
+@googleSubset      : 'cyrillic,latin-ext,vietnamese';
+
+@googleProtocol    : 'https://';
+@googleFontRequest : '@{googleFontName}:@{googleFontSizes}&subset=@{googleSubset}';
+
+/*-------------------
+      Base Sizes
+--------------------*/
+
+/* This is the single variable that controls them all */
+@emSize   : 17px;
+
+/* The size of page text  */
+@fontSize : 17px;
